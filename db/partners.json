@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Піжами", 
+    "stars": 4.5,
+    "price": 400,
+    "kitchen": "Одяг",
+    "image": "img/pajamas/preview.jpg",
+    "products": "pajamas.json"
+  },
+  {
+    "name": "Сумки", 
+    "stars": 4.3,
+    "price": 1200,
+    "kitchen": "Аксесуари",
+    "image": "img/bag/preview.jpg",
+    "products": "bag.json"
+  },
+  {
+    "name": "Сорочки", 
+    "stars": 4.4,
+    "price": 300,
+    "kitchen": "Одяг",
+    "image": "img/shirt/preview.jpg",
+    "products": "shirt.json"
+  },
+  {
+    "name": "Куртки", 
+    "stars": 4.1,
+    "price": 800,
+    "kitchen": "Верхній одяг",
+    "image": "img/jacket/preview.jpg",
+    "products": "jacket.json"
+  },
+  {
+    "name": "Спортивні костюми", 
+    "stars": 4.7,
+    "price": 400,
+    "kitchen": "Одяг",
+    "image": "img/tracksuit/preview.jpg",
+    "products": "tracksuit.json"
+  },
+  {
+    "name": "Штани", 
+    "stars": 4.6,
+    "price": 300,
+    "kitchen": "Одяг",
+    "image": "img/pants/preview.jpg",
+    "products": "pants.json"
+  }
+]

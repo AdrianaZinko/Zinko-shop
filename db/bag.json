@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tn01",
+    "name": "Сумка",
+    "description": "Чорний, червоний, білий",
+    "price": 1455,
+    "image": "img/bag/76.jpg"
+  },
+  {
+    "id": "tn02",
+    "name": "Сумка",
+    "description": "Коричневий, білий, сірий, чорний",
+    "price": 755,
+    "image": "img/bag/91.jpg"
+  },
+  {
+    "id": "tn03",
+    "name": "Сумка",
+    "description": "Білий, синій, чорний, червоний",
+    "price": 1255,
+    "image": "img/bag/104.jpg"
+  },
+  {
+    "id": "tn04",
+    "name": "Сумка",
+    "description": "Чорний, беж, синій, рожевий",
+    "price": 765,
+    "image": "img/bag/112.jpg"
+  } 
+]

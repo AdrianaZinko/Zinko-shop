@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pp01",
+    "name": "Піжама",
+    "description": "Фіолетовий, чорний, синій",
+    "price": 845,
+    "image": "img/pajamas/229.jpg"
+  },
+  {
+    "id": "pp02",
+    "name": "Піжама",
+    "description": "Хакі, білий, рожевий, зелений, синій",
+    "price": 650,
+    "image": "img/pajamas/268.jpg"
+  }, 
+  {
+    "id": "pp04",
+    "name": "Піжама",
+    "description": "Рожевий, сірий, чорний, золотий, коричневий",
+    "price": 405,
+    "image": "img/pajamas/335.jpg"
+  },
+  {
+    "id": "pp05",
+    "name": "Піжама",
+    "description": "Чорний, рожевий, синій",
+    "price": 740,
+    "image": "img/pajamas/341.jpg"
+  } 
+]

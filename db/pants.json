@@ -1,0 +1,65 @@
+[
+  {
+    "id": "pb01",
+    "name": "Штани",
+    "description": "Коричневий, чорний",
+    "price": 638,
+    "image": "img/pants/48.jpg"
+  },
+  {
+    "id": "pb02",
+    "name": "Штани",
+    "description": "Сірий,чорний, беж, білий, синій",
+    "price": 393,
+    "image": "img/pants/83.jpg"
+  },
+  {
+    "id": "pb03",
+    "name": "Штани",
+    "description": "Чорний, білий",
+    "price": 705,
+    "image": "img/pants/64.jpg"
+  },
+  {
+    "id": "pb04",
+    "name": "Штани",
+    "description": "Сірий, білий, червоний, чорний",
+    "price": 309,
+    "image": "img/pants/152.jpg"
+  },
+  {
+    "id": "pb05",
+    "name": "Штани",
+    "description": "Сірий, хікі, чорний",
+    "price": 375,
+    "image": "img/pants/251.jpg"
+  },
+  {
+    "id": "pb06",
+    "name": "Штани",
+    "description": "Світлий",
+    "price": 649,
+    "image": "img/pants/369.jpg"
+  },
+  {
+    "id": "pb07",
+    "name": "Штани",
+    "description": "Світлий+чорний",
+    "price": 649,
+    "image": "img/pants/379.jpg"
+  },
+  {
+    "id": "pb08",
+    "name": "Штани",
+    "description": "Чорний, білий",
+    "price": 549,
+    "image": "img/pants/388.jpg"
+  },
+  {
+    "id": "pb09",
+    "name": "Штани",
+    "description": "Беж, чорний, білий",
+    "price": 449,
+    "image": "img/pants/258.jpg"
+  }
+]

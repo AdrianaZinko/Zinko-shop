@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fb01",
+    "name": "Сорочка",
+    "description": "Білий, чорний, синій",
+    "price": 685,
+    "image": "img/shirt/BHCqjbCqXWY.jpg"
+  },
+  {
+    "id": "fb02",
+    "name": "Сорочка",
+    "description": "Чорний, білий",
+    "price": 493,
+    "image": "img/shirt/581.jpg"
+  },
+  {
+    "id": "fb03",
+    "name": "Сорочка",
+    "description": "Білий, чорний, синій",
+    "price": 395,
+    "image": "img/shirt/603.jpg"
+  },
+  {
+    "id": "fb04",
+    "name": "Сорочка",
+    "description": "Рожевий, синій, білий",
+    "price": 405,
+    "image": "img/shirt/604.jpg"
+  } 
+]
